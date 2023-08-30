@@ -1,4 +1,4 @@
-package com.example.labvaa;
+package com.example.labvaadin;
 
 import org.springframework.web.bind.annotation.*;
 
